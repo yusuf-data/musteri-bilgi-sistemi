@@ -1,7 +1,4 @@
-# musteri-bilgi-sistemi
-Kullanıcıdan müşteri bilgilerini alıp ekrana yazdıran basit bir Python uygulaması.
 # Müşteri Bilgi Sistemi
-
 Bu proje, kullanıcıdan müşteri bilgilerini alıp ekrana yazdıran basit bir Python uygulamasıdır.
 
 ## Özellikler
